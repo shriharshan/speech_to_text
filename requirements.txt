@@ -1,0 +1,4 @@
+torch==2.2.1
+transformers==4.38.2
+speechrecognition == 3.10.1
+pydub==0.25.1
